@@ -1,5 +1,5 @@
 #Markdown简述
-抄袭自：https://github.com/younghz/Markdown
+Plagiarized from：https://github.com/younghz/Markdown
 
 
 > ## *What*？
